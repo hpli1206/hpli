@@ -1,0 +1,13 @@
+以下i哪个是java的基本数据类型？<br>A.int<br>B.Float<br>C.Boolean<br>D.String<ar>A<ar>6.jpg
+以下bb哪个不是java的基本数据类型？<br>A.int<br>B.char<br>C.Byte<br>D.long<ar>C<ar>6.jpg
+以下c哪个是java的基本数据类型？<br>A.int<br>B.Float<br>C.Boolean<br>D.String<ar>A<ar>6.jpg
+以下gfv哪个是java的基本数据类型？<br>A.int<br>B.Float<br>C.Boolean<br>D.String<ar>A<ar>6.jpg
+以下h哪个不是java的基本数据类型？<br>A.int<br>B.char<br>C.Byte<br>D.long<ar>C<ar>6.jpg
+以下k选项中是对一个Java源文件进行正确编译的语句是<br>A.javac Test.java<br>B.javac Test<br>C.java Test<br>D.java Test.class<ar>A<ar>6.jpg
+以下lv选项中是对一个Java源文件进行正确编译的语句是<br>A.javac Test.java<br>B.javac Test<br>C.java Test<br>D.java Test.class<ar>A<ar>6.jpg
+以下e哪个是java的基本数据类型？<br>A.int<br>B.Float<br>C.Boolean<br>D.String<ar>A<ar>6.jpg
+以下d哪个不是java的基本数据类型？<br>A.int<br>B.char<br>C.Byte<br>D.long<ar>C<ar>3.jpg
+while循环和do-while循环的区别是<br>A.没有区别，这两个结构在任何情况下效果一样<br>B.while循环比do-while循环执行效率高<br>C.while循环是先循环后判断，所以循环体至少被执行一次<br>D.do-while循环是先循环后判断，所以循环体至少被执行一次<ar>D<ar>4.jpg
+以下fc哪个不是java的基本数据类型？<br>A.int<br>B.char<br>C.Byte<br>D.long<ar>C<ar>6.jpg
+以下j哪个不是java的基本数据类型？<br>A.int<br>B.char<br>C.Byte<br>D.long<ar>C<ar>6.jpg
+以下af哪个是java的基本数据类型？<br>A.int<br>B.Float<br>C.Boolean<br>D.String<ar>A<ar>1.jpg
